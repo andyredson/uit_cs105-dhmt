@@ -27,8 +27,6 @@ BEGIN_MESSAGE_MAP(CCGApplicationView, CView)
 	ON_COMMAND(ID_FILE_PRINT, &CView::OnFilePrint)
 	ON_COMMAND(ID_FILE_PRINT_DIRECT, &CView::OnFilePrint)
 	ON_COMMAND(ID_FILE_PRINT_PREVIEW, &CCGApplicationView::OnFilePrintPreview)
-	ON_WM_CONTEXTMENU()
-	ON_WM_RBUTTONUP()
 END_MESSAGE_MAP()
 
 // CCGApplicationView construction/destruction
