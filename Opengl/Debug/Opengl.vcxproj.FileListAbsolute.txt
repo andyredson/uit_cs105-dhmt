@@ -1,0 +1,2 @@
+C:\Users\khoah\Desktop\uit_cs105-dhmt\Opengl\Debug\Opengl.exe
+C:\Users\khoah\Desktop\uit_cs105-dhmt\Opengl\Debug\Opengl.pdb
